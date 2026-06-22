@@ -16,7 +16,7 @@ init(autoreset=True)
 # ==========================
 # CONFIG
 # ==========================
-PROJECT_DIR = "./"
+PROJECT_DIR = "./project"
 ASSETS_DIR_NAME = "assets"
 
 FILE_EXTENSIONS = {
